@@ -19,18 +19,16 @@
 
 ##  Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Project Structure](#-project-structure)
-- [ Getting Started](#-getting-started)
-  - [ Prerequisites](#-prerequisites)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [ Overview](#overview)
+- [ Features](#features)
+- [ Project Structure](#project-structure)
+- [ Getting Started](#getting-started)
+  - [ Prerequisites](#prerequisites)
+  - [ Installation](#installation)
+  - [ Usage](#usage)
+- [ Contributing](#contributing)
+- [ License](#license)
+- [ Acknowledgments](#acknowledgments)
 
 ---
 
@@ -227,11 +225,12 @@ Before getting started with ttnc, ensure your runtime environment meets the foll
 1. Go to `Tools > COMx`.
 2. Verify that the project flashes successfully.
 
-###  Contribution
+---
+
+###  Contributing
 
 
 ---
-<summary>Contributor Graph</summary>
 <br>
 <p align="left">
    <a href="https://github.com{/atlas-sat/ttnc/}graphs/contributors">
